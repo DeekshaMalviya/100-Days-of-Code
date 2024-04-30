@@ -14,5 +14,5 @@ By the end of the challenge, I aim to:
 - Build a portfolio of projects
 
 ## Progress
-- [Day 1: 14th April - Leaning array and practicing its questions]
+- [Day 1: 30th April - Missing number in array]
 - ...
