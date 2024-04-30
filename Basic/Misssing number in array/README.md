@@ -6,11 +6,10 @@ Given an array of integers where elements are distinct and sorted in ascending o
 
 ### Example:
 
-Input:
-[1, 2, 4, 5]
+![image](https://github.com/DeekshaMalviya/100-Days-of-Code/assets/132806772/248766dc-7446-4c67-967b-15332796e192)
 
-Output:
-3
+![image](https://github.com/DeekshaMalviya/100-Days-of-Code/assets/132806772/60f7edb4-8bb2-4352-a7d4-60b5fb8a3201)
+
 
 
 ### Constraints:
