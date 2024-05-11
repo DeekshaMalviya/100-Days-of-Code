@@ -1,3 +1,5 @@
+### Leaders in an array
+
 Given an array A of positive integers. Your task is to find the leaders in the array. An element of array is a leader if it is greater than or equal to all the elements to its right side. The rightmost element is always a leader. 
 
 ![image](https://github.com/DeekshaMalviya/100-Days-of-Code/assets/132806772/5f9f0a98-e455-4576-a1e8-13c9fd0278ce)
