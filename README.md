@@ -13,6 +13,3 @@ By the end of the challenge, I aim to:
 - Learn new technologies
 - Build a portfolio of projects
 
-## Progress
-- [Day 1: 30th April - Missing number in array]
-- ...
